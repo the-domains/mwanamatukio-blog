@@ -24,16 +24,16 @@ description: >-
   above requirements and would like to apply for the position should submit an
   application showing two names of referees to:APPLY NOW THROUGHSenior Human
   Resources Officer-AdministrationKilombero Sugar Company,P.O. Box 50,
-dateModified: '2017-12-09T12:15:09.506Z'
-datePublished: '2017-12-09T12:15:11.186Z'
+dateModified: '2017-12-09T12:15:20.460Z'
+datePublished: '2017-12-09T12:15:21.515Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-12-09T12:15:11.186Z'
 sourcePath: >-
   _posts/2017-12-09-descriptionkilombero-sugar-company-limited-the-largest-prod.md
+starred: false
+datePublishedOriginal: '2017-12-09T12:15:11.186Z'
 _type: Blurb
 
 ---
