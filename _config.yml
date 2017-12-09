@@ -1,0 +1,63 @@
+typography_spectrum: 0.7663509896956384
+color:
+  brandColors:
+    - '#E9FFFC'
+    - '#000513'
+    - '#434A50'
+    - '#9BA3A9'
+    - '#48F54B'
+  brandStrength: 0.4010095277335495
+  lightness: 0.2584397401660681
+  saturation: 0.7494511618278921
+  rhythmicContrast: 0.6669269732665271
+layout_spectrum: 0.9152952954173088
+name: MWANAMATUKIO BLOG
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: 'EDUCATION, JOBS, MAGAZINES, MUSIC $ ALL NEWS'
+    url: 'http://www.mwanamatukio.com'
+    type: external
+title: MWANAMATUKIO BLOG
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d2428b4-f285-42b5-8995-58b6f7cfbd18.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d2428b4-f285-42b5-8995-58b6f7cfbd18.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: get news from  www.mwanamatukio.com
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bfb5fe1-9891-4de2-8f93-ee35b51cab10.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/946d3f07-d7d5-49f1-a4d7-682b7b1afe81.png
+content_rating:
+  adult: false
+url: 'https://mwanamatukio.com/'
+author:
+  name: mwanamatukio
+  url: 'http://www.mwanamatukio.com'
